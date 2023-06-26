@@ -1,0 +1,12 @@
+{
+    "name": "UnityFoundation.Health System",
+    "version": "0.0.1",
+    "package_file": "Assets/UnityFoundation.Health System/package.json",
+    "unity_package": {
+        "name": "unityfoundation-health-system",
+        "path": "Builds",
+        "export_folders": [
+            "Assets/UnityFoundation.Health System"
+        ]
+    }
+}
