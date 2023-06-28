@@ -1,6 +1,6 @@
 {
     "name": "coop.unityfoundation.healthsystem",
-    "version": null,
+    "version": "0.1.0",
     "displayName": "UnityFoundation HealthSystem",
     "unity": "2021.3",
     "description": "",

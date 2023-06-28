@@ -1,6 +1,6 @@
 {
     "name": "UnityFoundation.HealthSystem",
-    "version": null,
+    "version": "0.1.0",
     "package_file": "Assets/UnityFoundation.HealthSystem/package.json",
     "unity_package": {
         "name": "unityfoundation-healthsystem",
