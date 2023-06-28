@@ -1,4 +1,4 @@
-# <PROJECT_NAME>
+# UnityFoundation Health System
 
 ## Importação e uso da biblioteca
 
@@ -9,14 +9,14 @@ A forma mais simples de importar o pacote e garantir sempre ter uma versão atua
 Para isso abra o *Package Manager* e na opção de *Add package from git URL* adicione a seguinte url:
 
 ```
-https://github.com/BGS-UnityFoundation/<PROJECT_REPO>.git?path=/Assets/<PROJECT_NAME>
+https://github.com/BGS-UnityFoundation/unity-foundation-health-system.git?path=/Assets/UnityFoundation.HealthSystem
 ```
 
 Por meio desse link o Package Manager da Unity irá baixar o a pasta selecionada na raiz do projeto.
 
 ### Importação por .unitypackage
 
-O pacote `<PROJECT_PACKAGE>.unitypackage` pode ser baixado e importado no Editor da Unity.
+O pacote `UnityFoundation.HealthSystem.unitypackage` pode ser baixado e importado no Editor da Unity.
 
 Depois de importado alguns pacotes devem ser adicionados ao `manisfest.json` por serem dependências desses pacote.
 
