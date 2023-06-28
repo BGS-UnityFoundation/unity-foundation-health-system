@@ -1,0 +1,17 @@
+{
+    "name": "UnityFoundation.HealthSystem.Samples",
+    "rootNamespace": "UnityFoundation.HealthSystem.Samples",
+    "references": [
+        "GUID:cca081a086b31244d9651adeb57e9fa6",
+        "GUID:1dffb094c2e665346be997395af6021e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

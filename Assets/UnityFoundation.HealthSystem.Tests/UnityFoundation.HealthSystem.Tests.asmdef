@@ -1,0 +1,22 @@
+{
+    "name": "UnityFoundation.HealthSystem.Tests",
+    "rootNamespace": "UnityFoundation.HealthSystem.Tests",
+    "references": [
+        "GUID:1dffb094c2e665346be997395af6021e",
+        "GUID:cca081a086b31244d9651adeb57e9fa6",
+        "GUID:56de67b70740b014a8b08bb241006e29"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -25,6 +25,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.inputsystem": {
+      "version": "1.4.4",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
@@ -109,6 +118,23 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "coop.unityfoundation.code": {
+      "version": "https://github.com/BrunoBiluca/unity-foundation-code.git?path=/Assets/UnityFoundation.Code",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.4.4",
+        "com.unity.textmeshpro": "3.0.6"
+      },
+      "hash": "581765f97a92d1fe05b0a71eb61be57027f44d22"
+    },
+    "coop.unityfoundation.testutility": {
+      "version": "https://github.com/BrunoBiluca/unity-foundation-code.git?path=/Assets/UnityFoundation.TestUtility",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "581765f97a92d1fe05b0a71eb61be57027f44d22"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
